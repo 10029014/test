@@ -7,8 +7,8 @@ int main()
   int g;
 
   /* actual initialization*/
-  a = 10;
-  b = 20;
+  a = 20;
+  b = 30;
   g = a+b;
 
   printf ("value of a = %d, b = %d and g = %d\n", a, b, g);
